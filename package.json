@@ -25,7 +25,7 @@
     "@nestjs/graphql": "10.0.8",
     "@nestjs/mongoose": "9.0.3",
     "@nestjs/platform-express": "8.4.4",
-    "@types/express-serve-static-core": "4.17.28",
+    "@types/express-serve-static-core": "4.17.42",
     "apollo-server-express": "3.6.7",
     "bcrypt": "5.0.1",
     "cors": "2.8.5",
