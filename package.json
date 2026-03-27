@@ -28,7 +28,7 @@
     "@types/express-serve-static-core": "4.17.28",
     "apollo-server-express": "3.6.7",
     "bcrypt": "5.0.1",
-    "cors": "2.8.5",
+    "cors": "2.8.6",
     "express": "4.17.3",
     "global": "4.4.0",
     "graphql": "16.3.0",
